@@ -1,4 +1,4 @@
-# PyViz_homework
+# PyViz_Exploration
 
 Within this homework submission are two JupyterLab notebooks, "rental_analysis.ipynb" and "dashboard.ipynb." 
 
